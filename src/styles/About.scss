@@ -1,0 +1,32 @@
+#about {
+  .about__section {
+    padding-top: 2rem;
+  }
+
+  .title {
+    text-align: center;
+
+    p {
+      font-size: var(--h3-font-size);
+    }
+  }
+
+  .about__title {
+    font-size: 3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  .about__desc {
+    margin-top: 3rem;
+    max-width: 1000px;
+    margin-left: auto;
+    text-align: justify;
+    margin-right: auto;
+  }
+
+  ul {
+    list-style: decimal;
+    padding-left: 20px;
+  }
+}

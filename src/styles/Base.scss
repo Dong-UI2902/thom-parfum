@@ -1,0 +1,192 @@
+/*=============== BASE ===============*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body,
+button,
+input,
+a,
+textarea {
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+}
+
+body {
+  color: var(--text-body-color);
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: var(--font-semi-bold);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.scrollup {
+  position: fixed;
+  background: var(--primary-color);
+  right: 1rem;
+  bottom: -30%;
+  display: inline-flex;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  opacity: 1;
+  z-index: var(--z-tooltip);
+  transition: 0.4s;
+
+  &:hover {
+    opacity: 0.8;
+  }
+
+  &__icon {
+    font-size: 1rem;
+    color: #fff;
+  }
+}
+
+/* Show Scroll Up*/
+.show-scroll {
+  bottom: 3rem;
+}
+
+::-webkit-scrollbar {
+  width: 0.4rem;
+
+  &-thumb {
+    background: hsl(152, 4%, 29%);
+    border-radius: 0.5rem;
+  }
+}
+
+.toolbar {
+  color: #fff;
+  padding: 0 !important;
+}
+
+/* Change background header */
+.scroll-header {
+  box-shadow: 0 1px 4px hsla(152, 4%, 15%, 0.1) !important;
+  background-color: white !important;
+
+  .toolbar {
+    color: var(--primary-color) !important;
+  }
+}
+
+.react-multi-carousel-dot-list {
+  bottom: -8px;
+}
+
+.btn-primary {
+  padding: 18px 60px !important;
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+  text-transform: none !important;
+}
+
+.title {
+  font-size: var(--h1-font-size);
+  color: var(--text-color);
+  font-family: var(--title-font);
+}
+
+.title-center {
+  text-align: center;
+}
+
+.sport-title {
+  font-weight: var(--font-semi-bold) !important;
+  // font-size: var(--h2-font-size);
+}
+
+.sport-desc {
+  font-size: var(--small-font-size);
+  color: var(--text-body-color);
+  font-family: var(--body-font);
+}
+
+.ribbon {
+  position: absolute;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  color: white;
+  top: 0;
+  right: 0;
+}
+
+.ribbon1 {
+  position: absolute;
+  top: -6.1px;
+  right: 10px;
+}
+
+.ribbon1:after {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 45px solid transparent;
+  border-right: 45px solid transparent;
+  border-top: 10px solid #f8463f;
+}
+
+.ribbon1 span {
+  position: relative;
+  display: block;
+  text-align: center;
+  background: #f8463f;
+  font-size: 14px;
+  line-height: 1;
+  padding: 12px 8px 10px;
+  border-top-right-radius: 8px;
+  width: 90px;
+}
+
+.ribbon1 span:before,
+.ribbon1 span:after {
+  position: absolute;
+  content: "";
+}
+
+.ribbon1 span:before {
+  height: 6px;
+  width: 6px;
+  left: -6px;
+  top: 0;
+  background: #f8463f;
+}
+
+.ribbon1 span:after {
+  height: 6px;
+  width: 8px;
+  left: -8px;
+  top: 0;
+  border-radius: 8px 8px 0 0;
+  background: #c02031;
+}

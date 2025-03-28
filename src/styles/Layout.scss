@@ -1,0 +1,21 @@
+/*=============== REUSABLE CSS CLASSES ===============*/
+.section {
+  padding: 8.5rem 0 1rem;
+}
+
+.container {
+  max-width: 1200px;
+
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.grid {
+  display: grid;
+}
+
+.main {
+  position: relative;
+  overflow: hidden; // For animation
+}

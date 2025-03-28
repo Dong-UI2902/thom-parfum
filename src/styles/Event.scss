@@ -1,0 +1,62 @@
+.event {
+  &__container {
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+
+  &__section {
+    padding-top: 3rem;
+  }
+
+  &__box {
+    margin-top: 5rem;
+  }
+
+  &__title {
+    font-size: var(--h2-font-size);
+    color: var(--text-color);
+    font-weight: var(--font-medium);
+  }
+
+  &__img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 900px;
+  }
+
+  &__desc {
+    margin: 10px 0;
+  }
+
+  &__desc {
+    margin-top: 10px;
+  }
+
+  .muihuong {
+    margin-top: 20px;
+
+    label {
+      font-weight: 500;
+      color: rgb(0, 54, 71);
+    }
+  }
+
+  .winter {
+    img {
+      width: 100%;
+      max-width: 500px;
+      border-radius: 10px;
+      display: block;
+      margin: 0 auto;
+    }
+
+    p {
+      margin: 10px 0 5px 0;
+    }
+  }
+
+  p {
+    line-height: 20px;
+  }
+}
