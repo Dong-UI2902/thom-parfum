@@ -81,10 +81,10 @@ export const isMobile = () => {
   );
 };
 
-export const FANPAGE = "https://www.facebook.com/thomparfum.vn";
+export const FANPAGE = "https://www.facebook.com/thomparfum.authentic";
 
 export const PHONE_NUMBER = "0588 2222 00";
 
-export const INS = "#";
+export const INS = "https://www.instagram.com/thomparfum";
 
-export const TIKTOK = "#";
+export const TIKTOK = "https://www.tiktok.com/@thomparfum.com";

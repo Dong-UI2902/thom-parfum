@@ -19,8 +19,8 @@ import FlashSale from "../components/FlashSale";
 
 const Info = {
   title: "Cửa Hàng Nước Hoa Authentic - Thơm Parfum",
-  desc: "Thomparfum.vn - Cửa hàng nước hoa chính hãng, uy tín tại TPHCM, chuyên cung cấp các sản phẩm nước hoa chính hãng với giá phù hợp.",
-  url: "https://thomparfum.vn/",
+  desc: "Thomparfum.com - Cửa hàng nước hoa chính hãng, uy tín tại TPHCM, chuyên cung cấp các sản phẩm nước hoa chính hãng với giá phù hợp.",
+  url: "https://thomparfum.com/",
 };
 
 function Home() {

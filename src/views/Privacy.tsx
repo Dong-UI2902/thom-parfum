@@ -6,7 +6,7 @@ import TagHeader from "../components/TagHeader";
 const Info = {
   title: "Chính sách bảo mật | Thơm Parfum",
   desc: "Cảm ơn bạn đã truy cập vào trang Website được vận hành bởi Thơm Parfum. Chúng tôi tôn trọng và cam kết sẽ bảo mật những thông tin mang tính riêng tư của bạn. Xin vui lòng đọc bản Chính sách bảo vệ thông tin cá nhân của người tiêu dùng dưới đây để hiểu hơn những cam kết mà chúng tôi thực hiện nhằm tôn trọng và bảo vệ quyền lợi của người truy cập. Bảo vệ thông tin cá nhân của người tiêu dùng và gây dựng được niềm tin cho bạn là vấn đề rất quan trọng với chúng tôi.",
-  url: "https://thomparfum.vn/chinh-sach-bao-mat",
+  url: "https://thomparfum.com/chinh-sach-bao-mat",
 };
 
 const Privacy = () => {
@@ -45,7 +45,7 @@ const Privacy = () => {
         <p>
           Người Tiêu Dùng hoặc Khách Hàng sẽ được yêu cầu điền đầy đủ các thông
           tin theo các trường thông tin theo mẫu có sẵn trên Website
-          thomparfum.vn như: Họ và Tên, Địa Chỉ (nhà riêng hoặc văn phòng), Số
+          thomparfum.com như: Họ và Tên, Địa Chỉ (nhà riêng hoặc văn phòng), Số
           Điện Thoại (di động, nhà riêng hoặc văn phòng),… Thông tin này được
           yêu cầu để đặt và hoàn tất việc đặt hàng online của Khách hàng..
         </p>
@@ -53,14 +53,14 @@ const Privacy = () => {
           • Về Cookie: Cookie là những thư mục dữ liệu được lưu trữ tạm thời
           hoặc lâu dài trong ổ cứng máy tính của Khách Hàng. Các Cookie được sử
           dụng để xác minh và duy trì thông tin cụ thể về việc sử dụng và người
-          sử dụng Website: thomparfum.vn, như các tuỳ chọn cho trang web hoặc
+          sử dụng Website: thomparfum.com, như các tuỳ chọn cho trang web hoặc
           thông tin về giỏ hàng điện tử của họ. Nếu không đồng ý, Khách Hàng có
           thể xoá tất cả các cookie đã nằm trong ổ cứng máy tính của mình bằng
           cách tìm kiếm các thư mục với “Cookie” trong tên của nó và xoá đi.
           Trong tương lai, Khách Hàng có thể chỉnh sửa các lựa chọn trong trình
           duyệt của mình để các Cookie (tương lai) bị chặn; Xin được lưu ý rằng:
           Nếu làm vậy, Khách Hàng có thể không sử dụng được đầy đủ các tính năng
-          của Website : thomparfum.vn.
+          của Website : thomparfum.com.
         </p>
         <h3>1. MỤC ĐÍCH THU THẬP THÔNG TIN CÁ NHÂN CỦA NGƯỜI TIÊU DÙNG</h3>
         <p>
@@ -70,7 +70,7 @@ const Privacy = () => {
         </p>
         <h3>2. PHẠM VI SỬ DỤNG THÔNG TIN CÁ NHÂN</h3>
         <p>
-          Website thomparfum.vn sử dụng thông tin của Người Tiêu Dùng cung cấp
+          Website thomparfum.com sử dụng thông tin của Người Tiêu Dùng cung cấp
           để:
         </p>
         <p>
@@ -103,7 +103,7 @@ const Privacy = () => {
         <p>
           • Ban quản trị.
           <br />
-          • Bên thứ ba có dịch vụ tích hợp với Website: thomparfum.vn
+          • Bên thứ ba có dịch vụ tích hợp với Website: thomparfum.com
           <br />
           • Cơ quan nhà nước có thẩm quyền trong trường hợp có yêu cầu theo quy
           định tại quy chế hoạt động
@@ -119,13 +119,13 @@ const Privacy = () => {
           Nam.
           <br />
           • Điện thoại: 0588 2222 00
-          <br />• Email: Cskh@Thomparfum.vn
+          <br />• Email: Cskh@Thomparfum.com
         </p>
         <h3>6. CAM KẾT BẢO MẬT THÔNG TIN CÁ NHÂN CỦA NGƯỜI TIÊU DÙNG</h3>
         <p>
-          Thông tin cá nhân của Người Tiêu Dùng trên Website thomparfum.vn được
+          Thông tin cá nhân của Người Tiêu Dùng trên Website thomparfum.com được
           Ban quản trị cam kết bảo mật tuyệt đối theo chính sách bảo mật thông
-          tin cá nhân được đăng tải trên Website: thomparfum.vn. Việc thu thập
+          tin cá nhân được đăng tải trên Website: thomparfum.com. Việc thu thập
           và sử dụng thông tin của mỗi Người Tiêu Dùng chỉ được thực hiện khi có
           sự đồng ý của Người Tiêu Dùng trừ những trường hợp pháp luật có quy
           định khác và quy định này.
@@ -154,7 +154,7 @@ const Privacy = () => {
         <p>
           Khi phát hiện thông tin cá nhân của mình bị sử dụng sai mục đích hoặc
           phạm vi, Người Tiêu Dùng gửi email khiếu nại đến Email:
-          Cskh@thomparfum.vn hoặc gọi điện thoại tới số 0588 2222 00 để khiếu
+          Cskh@thomparfum.com hoặc gọi điện thoại tới số 0588 2222 00 để khiếu
           nại và cung cấp chứng cứ liên quan tới vụ việc cho Ban quản trị. Ban
           quản trị cam kết sẽ phản hồi ngay lập tức hoặc muộn nhất là trong vòng
           24 giờ làm việc kể từ thời điểm nhận được khiếu nại.

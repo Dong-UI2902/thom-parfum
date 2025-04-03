@@ -6,8 +6,8 @@ import TagHeader from "../components/TagHeader";
 
 const Info = {
   title: "Giới thiệu về Thơm Parfum",
-  desc: "ThomParfum.vn - Bạn đang tìm kiếm điều gì ở một cửa hàng nước hoa chính hãng? Những sản phẩm chính hãng? Một mùi hương khiến bạn hài lòng? Hơn cả thế, Thơm Parfum sẽ mang đến cho bạn những cảm xúc tuyệt vời khác cùng mùi hương.",
-  url: "https://thomparfum.vn/gioi-thieu",
+  desc: "ThomParfum.com - Bạn đang tìm kiếm điều gì ở một cửa hàng nước hoa chính hãng? Những sản phẩm chính hãng? Một mùi hương khiến bạn hài lòng? Hơn cả thế, Thơm Parfum sẽ mang đến cho bạn những cảm xúc tuyệt vời khác cùng mùi hương.",
+  url: "https://thomparfum.com/gioi-thieu",
 };
 
 const About = () => {
@@ -72,7 +72,7 @@ const About = () => {
               <li>Nói KHÔNG với hàng giả, hàng nhái</li>
               <li>
                 Có chính sách bảo hành, đổi trả đầy đủ được quy định cụ thể trên
-                website Thomparfum.vn
+                website Thomparfum.com
               </li>
               <li>
                 <strong>Thơm Parfum</strong> trân trọng mọi trải nghiệm của

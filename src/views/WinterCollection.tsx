@@ -6,7 +6,7 @@ import TagHeader from "../components/TagHeader";
 const Info = {
   title: "Bộ Sưu Tập Nước Hoa Nam Mùa Thu Đông | Thơm Parfum",
   desc: "Với phái mạnh, nước hoa chính là “mảnh ghép” vô cùng quan trọng để hoàn thiện bản thân họ. Cùng Coolmate đi “giải mã” top 12 hương nước hoa Thu-Đông nam được yêu thích nhất 2023 nhé.",
-  url: "https://thomparfum.vn/wintercollection",
+  url: "https://thomparfum.com/wintercollection",
 };
 
 const WinterCollection = () => {

@@ -5,8 +5,8 @@ import TagHeader from "../components/TagHeader";
 
 const Info = {
   title: "Chính sách đổi trả | Thơm Parfum",
-  desc: "Thomparfum.vn cam kết tất cả sản phẩm Thomparfum.vn bán ra đảm bảo là hàng chính hãng 100%, chúng tôi không bán hàng giả, hàng nhái, hàng không đảm bảo chất lượng... Chúng tôi phục vụ nhu cầu mua hàng trên toàn quốc với chính sách cụ thể.",
-  url: "https://thomparfum.vn/chinh-sach-doi-tra",
+  desc: "Thomparfum.com cam kết tất cả sản phẩm Thomparfum.com bán ra đảm bảo là hàng chính hãng 100%, chúng tôi không bán hàng giả, hàng nhái, hàng không đảm bảo chất lượng... Chúng tôi phục vụ nhu cầu mua hàng trên toàn quốc với chính sách cụ thể.",
+  url: "https://thomparfum.com/chinh-sach-doi-tra",
 };
 
 const About = () => {

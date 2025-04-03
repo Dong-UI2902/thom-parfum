@@ -15,7 +15,7 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 const Info = {
   title: "Giỏ hàng | Thơm Parfum",
-  url: "https://thomparfum.vn/gio-hang",
+  url: "https://thomparfum.com/gio-hang",
 };
 
 const ShoppingCart = () => {

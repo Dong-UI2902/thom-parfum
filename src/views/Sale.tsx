@@ -41,7 +41,7 @@ const Sale = () => {
       <TagHeader
         title={"Chương Trình Ưu Đãi - Thơm Parfum"}
         desc="Cửa hàng nước hoa Nam chính hãng (Nước hoa chiết Nam) tại Thơm Parfum, chuyên bán các loại nước hoa chiết Nam, fullbox chính hãng"
-        url={"https://thomparfum.vn/category/chuong-trinh-uu-dai"}
+        url={"https://thomparfum.com/category/chuong-trinh-uu-dai"}
       />
       <Breadcrumb>
         <Typography color="text.primary">Chương trình ưu đãi</Typography>

@@ -190,11 +190,11 @@ const Footer = () => {
                     }}
                   >
                     <LinkStyle
-                      href="mailto:cskh@thomparfum.vn"
+                      href="mailto:cskh@thomparfum.com"
                       underline="hover"
                     >
                       <LiStyle sx={{ textTransform: "none" }}>
-                        <i className="ri-mail-line"></i>cskh@thomparfum.vn
+                        <i className="ri-mail-line"></i>cskh@thomparfum.com
                       </LiStyle>
                     </LinkStyle>
                     <LinkStyle href={`tel:${PHONE_NUMBER}`} underline="hover">

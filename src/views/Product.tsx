@@ -121,7 +121,7 @@ const Product = () => {
       <TagHeader
         title={`Nước hoa ${product.name} | Thơm Parfum`}
         desc={`Nước hoa ${product.gender} chính hãng ${product.name}. Có đầy đủ chiết và fullbox với giá tiết kiệm nhất`}
-        url={`https://thomparfum.vn/${handleUrl()}/${product.name}`}
+        url={`https://thomparfum.com/${handleUrl()}/${product.name}`}
       />
       <Breadcrumb>
         <Link

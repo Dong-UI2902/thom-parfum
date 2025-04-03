@@ -92,7 +92,7 @@ const Category = () => {
   //   for (let index = 0; index < data.length; index++) {
   //     const element = data[index];
   //     str = str.concat(
-  //       `<url><loc>https://thomparfum.vn/product/${element.slug}</loc><lastmod>2023-12-01T10:07:20+00:00</lastmod></url>`
+  //       `<url><loc>https://thomparfum.com/product/${element.slug}</loc><lastmod>2023-12-01T10:07:20+00:00</lastmod></url>`
   //     );
   //   }
 
@@ -104,7 +104,7 @@ const Category = () => {
       <TagHeader
         title={`${getNameCategory()} - Thơm Parfum`}
         desc="Cửa hàng nước hoa Nam chính hãng (Nước hoa chiết Nam) tại Thơm Parfum, chuyên bán các loại nước hoa chiết Nam, fullbox chính hãng"
-        url={`https://thomparfum.vn/category/${key}`}
+        url={`https://thomparfum.com/category/${key}`}
       />
       <Breadcrumb>
         <Typography color="text.primary">{getNameCategory()}</Typography>

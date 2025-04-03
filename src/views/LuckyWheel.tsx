@@ -4,8 +4,8 @@ import Roulette from "../components/Wheel/Roulette";
 
 const Info = {
   title: "Vòng quay may mắn",
-  desc: "ThomParfum.vn - Sự kiện vòng quay may mắn với vô vàng quà tặng hấp dẫn đang chờ đón.",
-  url: "https://thomparfum.vn/vong-quay-may-man",
+  desc: "ThomParfum.com - Sự kiện vòng quay may mắn với vô vàng quà tặng hấp dẫn đang chờ đón.",
+  url: "https://thomparfum.com/vong-quay-may-man",
 };
 
 const LuckyWheel = () => {

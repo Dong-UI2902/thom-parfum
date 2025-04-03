@@ -38,7 +38,7 @@ const Textarea = styled(BaseTextareaAutosize)(
 
 const Info = {
   title: "Thơm Parfum - Xác nhận đơn hàng",
-  desc: "Thomparfum.vn - Cửa hàng nước hoa chính hãng, uy tín tại TPHCM, chuyên cung cấp các sản phẩm nước hoa chính hãng với giá phù hợp.",
+  desc: "Thomparfum.com - Cửa hàng nước hoa chính hãng, uy tín tại TPHCM, chuyên cung cấp các sản phẩm nước hoa chính hãng với giá phù hợp.",
 };
 
 const Checkout = () => {
