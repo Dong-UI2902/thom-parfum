@@ -66,14 +66,14 @@
         "price": "2950000",
         "salePrice": "1650000",
         "image": "1aPm5JSa6sgSTxBzVuJyxHFmikSyjnK5r",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
         "price": "310000",
         "salePrice": "250000",
         "image": "1ukGffJzPaU-OVNxNnoDIfbfMH19CzuGb",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p>Thương hiệu Chanel<br>Xuất xứ Pháp<br>Năm phát hành 2020<br>Nhóm hương Hoa hồng, Xạ hương, Hoa nhài<br>Phong cách Thanh lịch Nữ tính, Sang trọng</p><p><br>Hương đầu: Quýt<br>Hương giữa: Hoa nhài, Hoa hồng<br>Hương cuối: Xạ hương</p><p>Vẫn là cô, vẫn là vẻ đẹp quyến luyến tuyệt phần nay càng thêm quyến rũ khi trút bỏ tấm vải lụa trên người đi. Giờ đây với vẻ trần trụi và bộc bạch, không giấu giếm, Coco Mademoiselle L’Eau Privee Chanel như mảnh nam châm ẩn mình dưới những cánh hoa hồng, ngát hương và cực kỳ thu hút.</p><p>Khẽ khàng chuyển động, bước đi của cô bồng bềnh dưới sự nâng đỡ của hương Quýt nhẹ tênh, trong trẻo. Thoát mình khỏi những chuẩn mực vẻ đẹp thông thường, Coco Mademoiselle L'Eau Privee khoan khoái hát lên những giai thoại tuy bình dị nhưng đầy duy mỹ với hoa hồng. Người ta hay so sánh hoa hồng với mỹ nhân, và quả thật đó chưa bao giờ là một phép so sánh sai lầm khi đến với Coco Mademoiselle L'Eau Privee.</p><p>Bóc tách từng cánh hoa, ta như gỡ bỏ lớp vải che lấy thân hình kiều diễm kia. Và trong những phút giây chững lại trong đời, ta cho phép bản thân mình chìm đắm trong tông vị ngọt ngào mà nồng nàn, quấn quýt lấy khứu giác, lấy làn da ta mãi không rời.</p>",
@@ -96,7 +96,7 @@
         "price": "3150000",
         "salePrice": "1350000",
         "image": "1xOnjGrmC9pq4VKmBxfg82Lure6G79io7",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -752,14 +752,14 @@
         "price": "3550000",
         "salePrice": "1300000",
         "image": "1ifyaEuxrCaswz7IZJCQ65DP3W4biuO8c",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
         "price": "310000",
         "salePrice": "250000",
         "image": "1KMmgLl2jv6Oh0m7CPHumv7cCLa02KhQx",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p>Thương hiệu Gucci<br>Xuất xứ Anh, Đức, Pháp<br>Năm phát hành 2023<br>Nhóm hương Hương hoa huệ, Hoa nhài, Quảng hoắc hương<br>Phong cách Bí ẩn, Ngọt ngào, Sang trọng</p><p><br>Hương đầu: Quả lê, Gừng, Cam quýt<br>Hương giữa: Hoa nhài, Hoa nhuệ, Hoa cam<br>Hương cuối: Hoắc hương, Rêu sồi, Dừa<br><br>Gucci luôn biết cách gây ấn tượng với những người yêu hương bằng cách biến tấu các flanker của mình. Gucci Bloom EDP sang trọng và tinh tế với hoa trắng, Gucci Bloom EDT tươi mới, trẻ trung với chút cam chanh, Gucci Bloom Profumo di Fiori mùi mẫn và ngọt ngào qua Ngọc lan tây. Cứ như thế, các nàng thơ mang tên Gucci Bloom đều tỏa sắc, tỏa hương theo một phong cách rất riêng biệt.<br><br>Gucci Bloom EDP Intense được nhận xét là hương thơm cá tính và táo bạo nhất của dòng Gucci Bloom, khi mang cho mình tông hương tối màu, hơi ẩm và xanh qua Hoắc hương và Rêu sồi. Một chút ngọt thanh của Lê được thêm vào, nhưng tất nhiên vẫn không đủ để 'tô sáng' cho tổng thể.<br><br>Sự dày dặn tiếp nối sự dày dặn, Hoa nhài trong Gucci Bloom EDP Intense không tươi sáng kiều diễm, mà lần này lại đậm đà và bí ẩn. Để so sánh cho dễ hiểu nhất, thì Gucci Bloom EDP là nụ Nhài xuân, mơn mởn và tinh tươm, trong khi Gucci Bloom EDP Intense lại là những bông hoa Nhài nở về đêm, nồng nàn và cuốn hút hơn rất nhiều.</p>",
@@ -872,7 +872,7 @@
         "price": "3200000",
         "salePrice": "1950000",
         "image": "1OF78G661teOaHzH1IQZgH5f4Ww42_dZU",
-        "status": false
+        "status": true
       },
       {
         "capacity": "10ml",
@@ -1134,14 +1134,14 @@
         "price": "6900000",
         "salePrice": "4100000",
         "image": "14_kKugSmHm99x2_ITU-FR5iumgE1AB8h",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
         "price": "900000",
         "salePrice": "590000",
         "image": "1wkwHQ4uYa5j5I3TCPd25ydsHWNcjvK4S",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p> <strong>Mã hàng</strong> 110100201590</p><p> <strong>Thương hiệu</strong> Kilian<br><strong>Xuất xứ</strong> Pháp<br><strong>Năm phát hành</strong> 2017<br><strong>Nhóm hương</strong> Sô-cô-la, Rượu rum, Hương caramen<br><strong>Phong cách</strong> Sang trọng, Quyến rũ, Sexy<br><strong>Hương chính</strong>: Sô cô la đen, Rượu Rum, Đường Caramel, Cà phê, Đường mía, Hạnh nhân, Gỗ đàn hương, Hoa vòi voi.</p><p> “Memento Mori” – “Hãy nhớ rằng ngươi sẽ phải chết”, một câu thành ngữ cổ với ngụ ý cảnh báo chúng ta rằng, là con người, dù gì cũng sẽ đi đến điểm kết thúc. Memento Mori cũng là câu chủ đề của một mùi hương hay ho đến từ Kilian, Black Phantom. Liệu Kilian Black Phantom sẽ là một mùi hương ám ảnh đáng sợ?</p><p> Thực tế là không, bởi rằng mùi hương của Black Phantom có phần hơi tối màu và không điệu đà, nhưng “bóng ma đen” này lại ẩn chứa bên trong một làn hương cuốn hút và thú vị. Sô cô la đen và Đường Caramel là tâm điểm chính, bên cạnh sự hỗ trợ của Cà phê và Rượu Rum. Vẫn như những cái tên thường lệ đến từ Kilian, Black Phantom được pha trộn tốt, hài hòa, cân bằng được vị đắng của Sô cô la và Cà phê với những nốt hương ngọt, cùng chút phê pha chuếnh choáng của Rượu Rum.</p><p> Dĩ nhiên, “bóng ma đen” tối tăm và không dễ gần như những mùi hương quen thuộc, thế nhưng nếu bạn đủ mạnh mẽ và cá tính để kiểu soát được Black Phantom, đây sẽ là mùi hương đặc trưng độc đáo dành cho bạn.</p>",
@@ -2038,7 +2038,7 @@
         "price": "3200000",
         "salePrice": "1200000",
         "image": "1zC3iNVbxCIZV_8azZZwThp0Xrm9OEaGs",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p>Thương hiệu Christian Dior<br>Xuất xứ Pháp<br>Năm phát hành 2020<br>Nhóm hương Hương iso e super, Gỗ cashmere, Xạ hương<br>Phong cách Lịch lãm, Nam tính, Hấp dẫn</p><p><br>Với thông điệp 'I’m your man' dòng nước hoa Dior Homme 2020 đã thực sự trở thành một phiên bản hoàn chỉnh thể hiện phong thái lịch lãm và vẻ đẹp mạnh mẽ đầy hấp dẫn của cánh mày râu.</p><p><br>Nếu như Dior Homme phiên bản 2005 và 2011 đã thể hiện phần nào những cuốn hút trên làn da của một chàng trai nam tính, thì ở phiên bản 2020, nhà sáng chế muốn xác định sự gợi cảm nam tính và hoàn thiện một cách tuyệt đối.</p><p><br>Hương thơm đậm đà của gỗ chính là yếu tố chủ đạo tạo nên sự cuốn hút trong Dior Homme 2020. Cảm giác ấm áp từ Gỗ Cashmere phả vào không gian, chạm lấy và chạy dọc trên làn da, bạn sẽ nếm được vị cay nhẹ của Gỗ tuyết tùng, đan xen cùng âm vị cay nhẹ của Hoắc hương và Hồng tiêu.</p><p><br>Dần dần, cảm xúc tiến đến ngưỡng vấn vương, sâu lắng và gợi hình hơn bởi hương thơm toả ra từ Xạ hương, sự lôi cuốn dường như đã bắt được mạch nguồn của các giác quan. Quẩn quanh đâu đó là những nhành Cỏ Vetiver ve vẩy trong không gian, góp phần lột tả phong cách của người đàn ông vừa cổ điển, vừa hào phóng, sẵn sàng thâu tóm mọi xúc cảm của người đối diện.</p>",
@@ -2050,7 +2050,7 @@
     "gender": "nam",
     "brand": "Christian Dior",
     "isNew": false,
-    "isHot": true,
+    "isHot": false,
     "slug": "dior-homme"
   },
   {
@@ -2083,7 +2083,7 @@
       {
         "capacity": "75ml",
         "price": "3100000",
-        "salePrice": "",
+        "salePrice": "1400000",
         "image": "1JssUW5dNX9B8DYKyI9cOfF-7QywHzJ-u",
         "status": true
       }
