@@ -7,6 +7,7 @@ import { useParams, useSearchParams } from "react-router-dom";
 import { useStore } from "../context";
 import { isStringLiteral } from "typescript";
 import TagHeader from "../components/TagHeader";
+import Notification from "../components/Notification";
 
 const Textarea = styled(BaseTextareaAutosize)(
   ({ theme }) => `
@@ -186,6 +187,7 @@ const Checkout = () => {
     <div className="product container">
       <TagHeader {...Info} />
       <div className="checkout">
+        <Notification />
         <div className="title">Xác nhận đơn hàng</div>
         <Box flexGrow={1} className="checkout__container">
           <Box>
