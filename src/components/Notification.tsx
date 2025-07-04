@@ -56,9 +56,9 @@ const Notification = () => {
               endIcon={<ClearIcon />}
               onClick={handleClose}
             >
-              Huỷ
+              Đóng
             </Button>
-            <Button
+            {/* <Button
               component={Link}
               href="https://m.me/105374042191939"
               variant="contained"
@@ -67,7 +67,7 @@ const Notification = () => {
               endIcon={<ArrowForwardIcon />}
             >
               Đồng ý
-            </Button>
+            </Button> */}
           </div>
         </Box>
       </Modal>
