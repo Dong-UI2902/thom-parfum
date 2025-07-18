@@ -31,9 +31,14 @@ const Notification = () => {
         <Box sx={style}>
           <div style={{ textAlign: "center" }}>
             <h2>
-              Liên hệ về{" "}
-              <span style={{ textDecoration: "underLine" }}>fanpage</span> để
-              được gợi ý quà tặng:
+              Đặt hàng qua{" "}
+              <a
+                href="https://m.me/105374042191939"
+                style={{ textDecoration: "underLine", fontSize: "24px" }}
+              >
+                fanpage
+              </a>{" "}
+              để được gợi ý quà tặng:
             </h2>
           </div>
           <div style={{ width: "400px", margin: "1rem auto" }}>

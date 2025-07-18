@@ -6,6 +6,7 @@ import { FANPAGE, FormatMoney, PHONE_NUMBER } from "../Helper/Helper";
 import { useParams, useSearchParams } from "react-router-dom";
 import { useStore } from "../context";
 import TagHeader from "../components/TagHeader";
+import Notification from "../components/Notification";
 
 const Textarea = styled(BaseTextareaAutosize)(
   ({ theme }) => `
@@ -183,6 +184,7 @@ const Checkout = () => {
 
   return (
     <div className="product container">
+      <Notification />
       <TagHeader {...Info} />
       <div className="checkout">
         <div className="title">Xác nhận đơn hàng</div>
