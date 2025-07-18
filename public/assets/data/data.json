@@ -37,7 +37,7 @@
       {
         "capacity": "100ml",
         "price": "2950000",
-        "salePrice": "1250000",
+        "salePrice": "",
         "image": "1ZBHV1W2OwHhlZ1HHBw_DLNwUx6AZnIxP",
         "status": true
       },
@@ -64,7 +64,7 @@
       {
         "capacity": "100ml",
         "price": "2950000",
-        "salePrice": "1650000",
+        "salePrice": "",
         "image": "1aPm5JSa6sgSTxBzVuJyxHFmikSyjnK5r",
         "status": false
       },
@@ -96,7 +96,7 @@
         "price": "3150000",
         "salePrice": "1350000",
         "image": "1xOnjGrmC9pq4VKmBxfg82Lure6G79io7",
-        "status": false
+        "status": true
       },
       {
         "capacity": "10ml",
@@ -750,7 +750,7 @@
       {
         "capacity": "100ml",
         "price": "3550000",
-        "salePrice": "1300000",
+        "salePrice": "",
         "image": "1ifyaEuxrCaswz7IZJCQ65DP3W4biuO8c",
         "status": false
       },
@@ -843,7 +843,7 @@
       {
         "capacity": "90ml",
         "price": "3250000",
-        "salePrice": "1750000",
+        "salePrice": "",
         "image": "1Va3s4yiy01_vjE9rKFt4N3rVCsTEWq4Z",
         "status": false
       },
@@ -1448,7 +1448,7 @@
       {
         "capacity": "100ml",
         "price": "3500000",
-        "salePrice": "3200000",
+        "salePrice": "",
         "image": "1m-BAJTF0wyVl-r5Vx1tDhYc2rZHDob19",
         "status": true
       }
@@ -1473,7 +1473,7 @@
       {
         "capacity": "100ml",
         "price": "3350000",
-        "salePrice": "2500000",
+        "salePrice": "",
         "image": "12EeMWjIgEdicSbqMxL3v4RPZbQJftQEM",
         "status": true
       }
@@ -1698,7 +1698,7 @@
       {
         "capacity": "100ml",
         "price": "3150000",
-        "salePrice": "",
+        "salePrice": "1250000",
         "image": "178jCdtc-CokRH1dxsEPKLmH_SqJh-lIl",
         "status": true
       }
@@ -2036,7 +2036,7 @@
       {
         "capacity": "100ml",
         "price": "3200000",
-        "salePrice": "1200000",
+        "salePrice": "",
         "image": "1zC3iNVbxCIZV_8azZZwThp0Xrm9OEaGs",
         "status": false
       }
