@@ -33,7 +33,8 @@ const Notification = () => {
             <h2>
               Đặt hàng qua{" "}
               <a
-                href="https://m.me/105374042191939"
+                // href="https://m.me/105374042191939"
+                href="#"
                 style={{ textDecoration: "underLine", fontSize: "24px" }}
               >
                 fanpage
