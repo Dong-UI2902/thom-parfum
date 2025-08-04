@@ -298,7 +298,7 @@
         "price": "3250000",
         "salePrice": "1500000",
         "image": "14AuB5gaUX0eUnHk6GC4t_k-im1wXvrbR",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -473,7 +473,7 @@
       {
         "capacity": "90ml",
         "price": "2850000",
-        "salePrice": "1200000",
+        "salePrice": "",
         "image": "1kIWmpP_bNFdDOb_QHKQoszCGBoNlgLL7",
         "status": true
       },
@@ -958,7 +958,7 @@
         "price": "6350000",
         "salePrice": "4100000",
         "image": "10KHGAgLvtbRoYyDybrgxGdcdpp838OXS",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
