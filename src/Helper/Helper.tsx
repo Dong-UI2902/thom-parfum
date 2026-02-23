@@ -81,7 +81,7 @@ export const isMobile = () => {
   );
 };
 
-export const FANPAGE = "https://www.facebook.com/thomparfum.authentic";
+export const FANPAGE = "https://www.facebook.com/thomparfumshop";
 
 export const PHONE_NUMBER = "0588 2222 00";
 
