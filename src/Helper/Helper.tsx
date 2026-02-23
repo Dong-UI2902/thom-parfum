@@ -88,5 +88,5 @@ export const PHONE_NUMBER = "0588 2222 00";
 export const INS = "https://www.instagram.com/thomparfum";
 
 export const TIKTOK = "https://www.tiktok.com/@thomparfum.com";
-export const ADDRESS_1 = "T2 - Bcons City Mall, 60 Thong Nhat, Dong Hoa, Ho Chi Minh"
-export const ADDRESS_2 = "T2 - Bcons City Mall, 60 Thong Nhat, Dong Hoa, Ho Chi Minh"
+export const ADDRESS_1 = "T2 - Bcons City Mall, 60 Thong Nhat, Dong Hoa, Ho Chi Minh";
+export const ADDRESS_2 = "T2 - Bcons City Mall, 60 Thong Nhat, Dong Hoa, Ho Chi Minh";
