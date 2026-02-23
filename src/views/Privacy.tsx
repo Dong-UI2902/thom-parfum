@@ -2,6 +2,7 @@ import React from "react";
 import Breadcrumb from "../components/Breadcrumb";
 import { Box, Typography } from "@mui/material";
 import TagHeader from "../components/TagHeader";
+import { ADDRESS_1, PHONE_NUMBER } from "../Helper/Helper";
 
 const Info = {
   title: "Chính sách bảo mật | Thơm Parfum",
@@ -115,10 +116,9 @@ const Privacy = () => {
         </p>
         <h3>5. ĐỊA CHỈ CỦA ĐƠN VỊ THU THẬP VÀ QUẢN LÝ THÔNG TIN</h3>
         <p>
-          • Địa chỉ: 65 Lê Lợi, Bến Thành, Quận 1, Thành Phố Hồ Chí Minh, Việt
-          Nam.
+          • Địa chỉ: {ADDRESS_1}
           <br />
-          • Điện thoại: 0588 2222 00
+          • Điện thoại: {PHONE_NUMBER}
           <br />• Email: Cskh@Thomparfum.com
         </p>
         <h3>6. CAM KẾT BẢO MẬT THÔNG TIN CÁ NHÂN CỦA NGƯỜI TIÊU DÙNG</h3>
@@ -154,7 +154,7 @@ const Privacy = () => {
         <p>
           Khi phát hiện thông tin cá nhân của mình bị sử dụng sai mục đích hoặc
           phạm vi, Người Tiêu Dùng gửi email khiếu nại đến Email:
-          Cskh@thomparfum.com hoặc gọi điện thoại tới số 0588 2222 00 để khiếu
+          Cskh@thomparfum.com hoặc gọi điện thoại tới số {PHONE_NUMBER} để khiếu
           nại và cung cấp chứng cứ liên quan tới vụ việc cho Ban quản trị. Ban
           quản trị cam kết sẽ phản hồi ngay lập tức hoặc muộn nhất là trong vòng
           24 giờ làm việc kể từ thời điểm nhận được khiếu nại.

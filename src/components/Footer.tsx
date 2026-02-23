@@ -1,7 +1,7 @@
 import { Box, Button, Grid, TextField, styled } from "@mui/material";
 import React from "react";
 import Link from "./Link";
-import { FANPAGE, INS, PHONE_NUMBER, TIKTOK } from "../Helper/Helper";
+import { ADDRESS_1, ADDRESS_2, FANPAGE, INS, PHONE_NUMBER, TIKTOK } from "../Helper/Helper";
 
 const HeaderStyle = styled("div")(({ theme }) => ({
   fontWeight: "500",
@@ -166,16 +166,9 @@ const Footer = () => {
                 <UlStyle>
                   <LiStyle>
                     <i className="ri-store-3-line"></i>
-                    <strong>Thơm Parfum Saigon Centre</strong>
+                    <strong>Thơm Parfum Bcons City Mall</strong>
                     <br />
-                    65 Le Loi, Ben Nghe, Quan 1, Ho Chi Minh
-                  </LiStyle>
-                  <LiStyle>
-                    <i className="ri-store-3-line"></i>
-                    <strong>Thơm Parfum Khang Dien</strong>
-                    <br />
-                    Jamila Khang Dien, Song Hanh, Phu Huu, Tp Thu Duc, Ho Chi
-                    Minh
+                    {ADDRESS_2}
                   </LiStyle>
                 </UlStyle>
               </Grid>
