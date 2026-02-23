@@ -1,6 +1,7 @@
 import React from "react";
 import CountdownTimer from "./countdown/CountdownTimer";
 import Link from "./Link";
+import { isMobile } from "../Helper/Helper";
 
 const FlashSale = () => {
   const today = new Date(+new Date().setHours(0, 0, 0, 0) + 86400000 * 2);
@@ -27,7 +28,13 @@ const FlashSale = () => {
         </div>
         <center className="container">
           <Link href="/category/chuong-trinh-uu-dai">
-            <img className="sale__img" src="/assets/img/events/birthday.jpg" />
+            {/* LINK BANNER 1 */}
+            <img className="sale__img" src="/assets/img/events/woman-day.jpg"
+            />
+            {/* <img className="sale__img" src={`/assets/img/events/${
+                isMobile() ? "birthday_mobile.png" : "birthday.jpg"
+              }`}
+            /> */}
           </Link>
         </center>
       </div>
