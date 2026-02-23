@@ -113,7 +113,7 @@ const Checkout = () => {
     setLoading(true);
 
     fetch(
-      "https://api.sheetbest.com/sheets/d23aebcd-0e80-487e-bc71-1820e03acac4",
+      "https://api.sheetbest.com/sheets/de77feef-7f2b-419c-8b9f-6983de3e8b6c",
       {
         headers: {
           Accept: "application/json",
@@ -184,8 +184,8 @@ const Checkout = () => {
 
   return (
     <div className="product container">
-      <Notification />
       <TagHeader {...Info} />
+      <Notification />
       <div className="checkout">
         <div className="title">Xác nhận đơn hàng</div>
         <Box flexGrow={1} className="checkout__container">

@@ -31,22 +31,24 @@ const Notification = () => {
         <Box sx={style}>
           <div style={{ textAlign: "center" }}>
             <h2>
-              Đặt hàng qua{" "}
+              ĐẶT HÀNG QUA{" "}
               <a
-                // href="https://m.me/105374042191939"
+                // href="https://m.me/105374042191939" ví dụ như này
+                // THAY CÁI LINK FANPAGE Ở ĐÂY, ok biết rồi, có đàu óc mà kkkk
                 href="#"
                 style={{ textDecoration: "underLine", fontSize: "24px" }}
               >
-                fanpage
+                FANPAGE
               </a>{" "}
-              để được gợi ý quà tặng:
+              ĐỂ ĐƯỢC GỢI Ý QUÀ TẶNG:
             </h2>
           </div>
           <div style={{ width: "400px", margin: "1rem auto" }}>
             <p>
-              - 1 chai chiết 10ml &quot;tuỳ chọn&quot; <br />- 1 voucher trị giá
-              250.000đ
+              - MỘT CHAI CHIẾT <strong>10ML</strong> &quot;TUỲ CHỌN&quot;
             </p>
+            <br/>
+            <p>- MỘT VOUCHER TRỊ GIÁ 250.000đ</p>
           </div>
           <div
             style={{
