@@ -29,7 +29,7 @@ const FlashSale = () => {
         <center className="container">
           <Link href="/category/chuong-trinh-uu-dai">
             {/* LINK BANNER 1 */}
-            <img className="sale__img" src="/assets/img/events/woman-day.jpg"
+            <img className="sale__img" src="/assets/img/events/Event-daypc.jpg"
             />
             {/* <img className="sale__img" src={`/assets/img/events/${
                 isMobile() ? "birthday_mobile.png" : "birthday.jpg"
