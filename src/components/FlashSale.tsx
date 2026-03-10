@@ -13,16 +13,20 @@ const FlashSale = () => {
     <section className="sale">
       <div className="sale__container">
         <div className="sale__title container">
-          <div className="sale__title-left">
-            <img src="/assets/fsale_countdown_label.webp" />
+          <div className="sale__title-left" style={{paddingLeft:"20px"}}>
+            <img src="/assets/fsale_countdown_label.webp" style={{width:"180px",height:"39px",objectFit:"contain"}} />
 
-            <div>Tuần Lễ Vàng</div>
+            <div style={{color:"#ff3c00"}}>
+  <div style={{fontSize:"18px",fontWeight:"700"}}>TUẦN LỄ VÀNG</div>
+</div>
           </div>
           <div className="sale__title-right">
             {/* <Link href="/category/chuong-trinh-uu-dai" underline="hover">
               Xem thêm
             </Link> */}
-            <p>Kết thúc sau</p>
+            <p style={{fontSize:"16px",fontWeight:"700",color:"#ff3c00"}}>
+  Kết thúc sau
+</p>
             <CountdownTimer targetDate={dateTime} />
           </div>
         </div>
