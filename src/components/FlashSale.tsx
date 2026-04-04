@@ -17,7 +17,7 @@ const FlashSale = () => {
             <img src="/assets/fsale_countdown_label.webp" style={{ width: "180px", height: "39px", objectFit: "contain" }} />
 
             <div style={{ color: "#ff3c00" }}>
-              <div style={{ fontSize: "18px", fontWeight: "700" }}>TUẦN LỄ VÀNG</div>
+              <div style={{ fontSize: "18px", fontWeight: "700" }}>ĐẠI LỄ 30/4</div>
             </div>
           </div>
           <div className="sale__title-right">
@@ -33,7 +33,7 @@ const FlashSale = () => {
         <center className="container">
           <Link href="/category/chuong-trinh-uu-dai">
             {/* LINK BANNER 1 */}
-            <img className="sale__img" src="/assets/img/events/Event-daypc.jpg"
+            <img className="sale__img" src="/assets/img/events/event_304.jpg"
             />
             {/* <img className="sale__img" src={`/assets/img/events/${
                 isMobile() ? "birthday_mobile.png" : "birthday.jpg"
