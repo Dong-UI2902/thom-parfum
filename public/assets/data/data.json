@@ -6,7 +6,7 @@
       {
         "capacity": "100ml",
         "price": "3250000",
-        "salePrice": "1350000",
+        "salePrice": "1650000",
         "image": "1jqTfzXv1QDyqIMbhWfIv1IA1nmdGpnia",
         "status": true
       },
@@ -37,7 +37,7 @@
       {
         "capacity": "100ml",
         "price": "2950000",
-        "salePrice": "1250000",
+        "salePrice": "1550000",
         "image": "1ZBHV1W2OwHhlZ1HHBw_DLNwUx6AZnIxP",
         "status": true
       },
@@ -94,7 +94,7 @@
       {
         "capacity": "100ml",
         "price": "3150000",
-        "salePrice": "1350000",
+        "salePrice": "1650000",
         "image": "1xOnjGrmC9pq4VKmBxfg82Lure6G79io7",
         "status": true
       },
@@ -121,9 +121,9 @@
       {
         "capacity": "50ml",
         "price": "3150000",
-        "salePrice": "1550000",
+        "salePrice": "",
         "image": "1zgYcHIfE-ZdqUizrn2-coXWuhFLVuMeU",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -148,7 +148,7 @@
       {
         "capacity": "100ml",
         "price": "3150000",
-        "salePrice": "1250000",
+        "salePrice": "1650000",
         "image": "10JbO4O9qJB55bDpxr_J5w3CwwDxGGrW2",
         "status": true
       },
@@ -175,7 +175,7 @@
       {
         "capacity": "100ml",
         "price": "3500000",
-        "salePrice": "1650000",
+        "salePrice": "2050000",
         "image": "17f8VQbbnLPKnxJtT1Rcy_Sfb9_mLZePq",
         "status": true
       },
@@ -229,7 +229,7 @@
       {
         "capacity": "100ml",
         "price": "2450000",
-        "salePrice": "1200000",
+        "salePrice": "1350000",
         "image": "1essbEqpQJ8G07CLUvWcP1TL_k7ViE9PR",
         "status": true
       },
@@ -260,7 +260,7 @@
       {
         "capacity": "100ml",
         "price": "3250000",
-        "salePrice": "1250000",
+        "salePrice": "1550000",
         "image": "1rYhxAUyZZaLnv73UOq7NE-fJRKAAqGqr",
         "status": true
       },
@@ -292,7 +292,7 @@
       {
         "capacity": "90ml",
         "price": "2850000",
-        "salePrice": "1250000",
+        "salePrice": "1650000",
         "image": "1OMK3o_4aBjkL-yd8NmgGOaGoDy976H3P",
         "status": true
       },
@@ -323,7 +323,7 @@
       {
         "capacity": "100ml",
         "price": "3250000",
-        "salePrice": "1500000",
+        "salePrice": "1750000",
         "image": "14AuB5gaUX0eUnHk6GC4t_k-im1wXvrbR",
         "status": true
       },
@@ -350,9 +350,9 @@
       {
         "capacity": "100ml",
         "price": "2690000",
-        "salePrice": "1150000",
+        "salePrice": "1400000",
         "image": "1L-np-cQHPgs7FbBw6B9UY6rXuY1U4bNv",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -558,9 +558,9 @@
       {
         "capacity": "90ml",
         "price": "2600000",
-        "salePrice": "1200000",
+        "salePrice": "",
         "image": "1yDC3BaaanM-QqXGNoUh8KgHRNNHl-mF4",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -589,7 +589,7 @@
       {
         "capacity": "90ml",
         "price": "2800000",
-        "salePrice": "1200000",
+        "salePrice": "1500000",
         "image": "1NNUiV9bXtIPzLXQh0nF9pjn-KJg5AoU_",
         "status": true
       },
@@ -620,9 +620,9 @@
       {
         "capacity": "100ml",
         "price": "2800000",
-        "salePrice": "1200000",
+        "salePrice": "",
         "image": "1ZYpu5FeJmsfgQltGfyFOV-55ipLdq4Ro",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -651,7 +651,7 @@
       {
         "capacity": "100ml",
         "price": "2800000",
-        "salePrice": "",
+        "salePrice": "1500000",
         "image": "16gE_V7CUssrnfQublXcHQOcvgEiPlMm0",
         "status": true
       },
@@ -682,9 +682,9 @@
       {
         "capacity": "100ml",
         "price": "2800000",
-        "salePrice": "1200000",
+        "salePrice": "",
         "image": "19ZuUbQgMxhRRljGcfuqtw9X66maZDtAw",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -774,7 +774,7 @@
       {
         "capacity": "100ml",
         "price": "2950000",
-        "salePrice": "1300000",
+        "salePrice": "1550000",
         "image": "1TJvMF94hx1lzUHHAqYrnQYbltKKIXlKH",
         "status": true
       },
@@ -867,7 +867,7 @@
       {
         "capacity": "90ml",
         "price": "2950000",
-        "salePrice": "1350000",
+        "salePrice": "1650000",
         "image": "1tT9oXxk7iEatVW95OatntvrFTb1ChPGN",
         "status": true
       },
@@ -924,7 +924,7 @@
       {
         "capacity": "90ml",
         "price": "3200000",
-        "salePrice": "1950000",
+        "salePrice": "2050000",
         "image": "1OF78G661teOaHzH1IQZgH5f4Ww42_dZU",
         "status": true
       },
@@ -956,7 +956,7 @@
       {
         "capacity": "90ml",
         "price": "3650000",
-        "salePrice": "1950000",
+        "salePrice": "2150000",
         "image": "1i6HYCb7lwkKQhT1HUWpGe9gnxxpuJdFz",
         "status": true
       },
@@ -1010,7 +1010,7 @@
       {
         "capacity": "50ml",
         "price": "6350000",
-        "salePrice": "",
+        "salePrice": "4100000",
         "image": "10KHGAgLvtbRoYyDybrgxGdcdpp838OXS",
         "status": true
       },
@@ -1186,7 +1186,7 @@
       {
         "capacity": "50ml",
         "price": "6900000",
-        "salePrice": "",
+        "salePrice": "4050000",
         "image": "14_kKugSmHm99x2_ITU-FR5iumgE1AB8h",
         "status": true
       },
@@ -1419,7 +1419,7 @@
     "prices": [
       {
         "capacity": "125ml",
-        "price": "2880000",
+        "price": "3400000",
         "salePrice": "",
         "image": "1e7cbGzp8Xd8uvakzSoi-YwH6jhqcTzSw",
         "status": true
@@ -1447,7 +1447,7 @@
       {
         "capacity": "100ml",
         "price": "4200000",
-        "salePrice": "2050000",
+        "salePrice": "2505000",
         "image": "1WYgfkcmg-S4BubjRrfPbR5y5n0eksq8K",
         "status": true
       },
@@ -1732,7 +1732,7 @@
       {
         "capacity": "100ml",
         "price": "2950000",
-        "salePrice": "1650000",
+        "salePrice": "2050000",
         "image": "1Z-2rEzRS4V1HfS3MDxJTi9SaZ6sadADC",
         "status": true
       }
@@ -1812,7 +1812,7 @@
       {
         "capacity": "100ml",
         "price": "3350000",
-        "salePrice": "1950000",
+        "salePrice": "2350000",
         "image": "1oBbybRJSh9XHU5sJ0_mU--LTY0Mr-xm-",
         "status": true
       }
@@ -2022,7 +2022,7 @@
         "price": "3650000",
         "salePrice": "",
         "image": "1Z-tgVnyCBFci7ukc431YmA2shDdYIx7l",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p> <strong>Thương hiệu</strong> Giorgio Armani<br><strong>Xuất xứ</strong> Pháp<br><strong>Năm phát hành</strong> 2015<br>Nhóm hương Hương biển, Hương nhang, Cam bergamot<br>Phong cách Tinh tế, Nam tính, Lịch lãm, Tươi mát<br><br>Hương Đầu: Cam Bergamot, Hương nước biển<br>Hương giữa: Hoa phong lữ, Cây hương thảo<br>Hương cuối: Cây hoắc hương, Nhang (Hương)</p><p> Gần 20 năm sau khi ra mắt nước hoa Acqua di Gio, Armani đã cho ra mắt một phiên bản mới với tên gọi là &nbsp;Acqua di Gio Profumo, tao nhã, tươi mát và nam tính với hương thơm tượng trưng cho sự hợp nhất của sóng biển và những tảng đá màu đen. Giorgio Armani Acqua di Gio Profumo sở hữu trong mình sự gần gũi, mạnh mẽ của người đàn anh đi trước, nhưng tính cách đã trở nên thay đổi đáng kể. Từ một chàng trai đẹp mã, đào hoa, đánh gục đối phương chỉ bằng nụ cười và sự thân thiện, Acqua di Gio Profumo còn được nâng cấp bằng sự trưởng thành, tự tin và sự 'mãnh liệt' nữa. Mở đầu sự cao trào và tươi mát với hương nước biển, Acqua di Gio Profumo trở nên khác biệt với hương thơm của Hoa phong lữ, trước khi gây 'nghiện' bằng mùi hương đầy thú vị của Cây hoắc hương và Nhang. Nếu mùa hè thực sự khiến bạn khó chịu, và nếu những mùi hương tươi mát làm bạn cảm thấy nhàm chán, thì Giorgio Armani Acqua di Gio Profumo có lẽ là sự lựa chọn hoàn hảo, bởi sự tươi mát của chàng trai này hết sức ấn tượng và khó lường.&nbsp;</p>",
@@ -2114,7 +2114,7 @@
       {
         "capacity": "100ml",
         "price": "3200000",
-        "salePrice": "1400000",
+        "salePrice": "1750000",
         "image": "1KGIuy1VI5FL7_GC87XYfPe9155RMT6dr",
         "status": true
       }
@@ -2251,7 +2251,7 @@
       {
         "capacity": "100ml",
         "price": "4200000",
-        "salePrice": "1950000",
+        "salePrice": "2450000",
         "image": "1DEpKVzpGd-8dKx9DG1Z10Zsfcj1YhrxP",
         "status": true
       }
@@ -2271,7 +2271,7 @@
       {
         "capacity": "80ml",
         "price": "4750000",
-        "salePrice": "",
+        "salePrice": "2050000",
         "image": "1gnnnKbJLMpoc9waIiZgREu1HmAKf2u0V",
         "status": true
       }
@@ -2311,7 +2311,7 @@
       {
         "capacity": "100ml",
         "price": "2500000",
-        "salePrice": "",
+        "salePrice": "1400000",
         "image": "1niSdlrrllsM3OGy8zGCpHamaY6TCNcgG",
         "status": true
       },
@@ -2582,7 +2582,7 @@
         "price": "2350000",
         "salePrice": "",
         "image": "11FyKLDrn43L5fttCeAJPgzcB0Ai8NnNE",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p> <strong>Thương hiệu</strong> Dolce &amp; Gabbana<br><strong>Xuất xứ</strong> Pháp, Anh , Đức<br><strong>Năm phát hành</strong> 2020<br>Nhóm hương Bạch đậu khấu, Xạ hương, Da thuộc<br>Phong cách Tinh tế, Quyến rũ, Lịch Lãm<br><br>Hương đầu: Hoa cam, Cây bách, Thảo quả<br>Hương giữa: Gỗ, Hoa cam, An tức hương, Hương Benzoin<br>Hương cuối: Hoa cam, Da thuộc , Hoắc hương, Hương Labdanum</p><p> Ra mắt từ đầu năm 2020, D&amp;G The One EDP Intense được đánh giá là một trong những phiên bản gây ấn tượng nhất so với những dòng sản phẩm trước đây. Đem tới sức lôi cuốn nam tính bằng một mùi hương lịch lãm, tinh tế, The One EDP Intense tượng trưng cho sự đẳng cấp vượt thời gian đằng sau lớp vỏ bọc đặc trưng vốn có của nhà D&amp;G.</p><p> Bằng cách khai thác sự tươi mát, ngọt ngào từ những tinh chất Hoa cam, Cây bách và Thảo quả, từng nốt hương là từng đợt thôi thúc cho khứu giác phải chú ý đến những âm ỉ nơi cánh mũi. Tập trung bám lấy hương thơm của The One EDP Intense bao nhiêu, người khác càng bị mê hoặc bởi sự ấm áp từ Gỗ, Hoa cam và An tức hương bấy nhiêu.</p><p> Cho đến cuối cùng, nốt hương Hoa cam chủ đạo vẫn không bị mất mà còn trở nên cuốn hút hơn bởi sự lan tỏa mạnh mẽ đến từ Da thuộc, Hoắc hương và Labdanum. Nhờ vậy mà D&amp;G The One EDP Intense trở thành một hương thơm đặc biệt luôn khiến cho các cô nàng phải mon men lại gần.</p>",
@@ -2744,7 +2744,7 @@
       {
         "capacity": "60ml",
         "price": "3650000",
-        "salePrice": "1950000",
+        "salePrice": "2450000",
         "image": "10guZN7iv4-7zQwNAubDtSzYDc04YEOFL",
         "status": true
       }
@@ -2950,7 +2950,7 @@
       {
         "capacity": "90ml",
         "price": "2300000",
-        "salePrice": "1200000",
+        "salePrice": "1400000",
         "image": "1RD6__K9F1RbXILcaFGqO9MLZ5s4WQ1lq",
         "status": true
       }
@@ -3137,7 +3137,7 @@
       {
         "capacity": "100ml",
         "price": "2600000",
-        "salePrice": "1300000",
+        "salePrice": "1450000",
         "image": "13E3z7i5Qm-X6TXyuu5Q5jJDrkdWYqumt",
         "status": true
       },
