@@ -2670,6 +2670,13 @@
     "name": "Jean Paul Gaultier Le Male Le Parfum",
     "prices": [
       {
+        "capacity": "175ml",
+        "price": "3450000",
+        "salePrice": "",
+        "image": "1AyYD1jdlH2FizGwaVJuYtqQGz0dXcKPI",
+        "status": true
+      },
+      {
         "capacity": "125ml",
         "price": "2680000",
         "salePrice": "",
