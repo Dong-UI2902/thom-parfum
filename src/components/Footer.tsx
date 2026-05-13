@@ -166,7 +166,7 @@ const Footer = () => {
                 <UlStyle>
                   <LiStyle>
                     <i className="ri-store-3-line"></i>
-                    <strong>Thơm Parfum Bcons City Mall</strong>
+                    <strong>Thơm Parfum Oasis City</strong>
                     <br />
                     {ADDRESS_2}
                   </LiStyle>
