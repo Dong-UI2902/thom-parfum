@@ -381,8 +381,8 @@
     "prices": [
       {
         "capacity": "100ml",
-        "price": "5900000",
-        "salePrice": "3900000",
+        "price": "7900000",
+        "salePrice": "",
         "image": "1jkneLRWptz9HhxeGKzsHbJd1APES3YqI",
         "status": true
       },
@@ -589,7 +589,7 @@
       {
         "capacity": "90ml",
         "price": "2800000",
-        "salePrice": "1500000",
+        "salePrice": "2600000",
         "image": "1NNUiV9bXtIPzLXQh0nF9pjn-KJg5AoU_",
         "status": true
       },
@@ -620,7 +620,7 @@
       {
         "capacity": "100ml",
         "price": "2800000",
-        "salePrice": "",
+        "salePrice": "2600000",
         "image": "1ZYpu5FeJmsfgQltGfyFOV-55ipLdq4Ro",
         "status": false
       },
@@ -651,7 +651,7 @@
       {
         "capacity": "100ml",
         "price": "2800000",
-        "salePrice": "1500000",
+        "salePrice": "2600000",
         "image": "16gE_V7CUssrnfQublXcHQOcvgEiPlMm0",
         "status": true
       },
@@ -682,7 +682,7 @@
       {
         "capacity": "100ml",
         "price": "2800000",
-        "salePrice": "",
+        "salePrice": "2600000",
         "image": "19ZuUbQgMxhRRljGcfuqtw9X66maZDtAw",
         "status": false
       },
@@ -712,7 +712,7 @@
       {
         "capacity": "100ml",
         "price": "3420000",
-        "salePrice": "",
+        "salePrice": "2600000",
         "image": "1634sdh6h-OCMq93UhCUfc205jEto2NLN",
         "status": false
       },
@@ -742,7 +742,7 @@
     "prices": [
       {
         "capacity": "75ml",
-        "price": "2450000",
+        "price": "2600000",
         "salePrice": "",
         "image": "1ulU3YGwXn4XoUvlw_ZS7hln4dRsYOXG2",
         "status": false
@@ -773,8 +773,8 @@
     "prices": [
       {
         "capacity": "100ml",
-        "price": "2950000",
-        "salePrice": "1550000",
+        "price": "3150000",
+        "salePrice": "",
         "image": "1TJvMF94hx1lzUHHAqYrnQYbltKKIXlKH",
         "status": true
       },
@@ -1243,7 +1243,7 @@
       {
         "capacity": "100ml",
         "price": "2860000",
-        "salePrice": "1200000",
+        "salePrice": "2600000",
         "image": "18s_S6odQIi-SXfT9ieUVs-GLsuWZv2h6",
         "status": true
       },
@@ -2251,7 +2251,7 @@
       {
         "capacity": "100ml",
         "price": "4200000",
-        "salePrice": "2450000",
+        "salePrice": "",
         "image": "1DEpKVzpGd-8dKx9DG1Z10Zsfcj1YhrxP",
         "status": true
       }
@@ -3119,7 +3119,7 @@
     "prices": [
       {
         "capacity": "100ml",
-        "price": "3280000",
+        "price": "2600000",
         "salePrice": "",
         "image": "1CznA79qnU9aYlQMrgUdBD8FWCEx929q_",
         "status": true
@@ -3144,7 +3144,7 @@
       {
         "capacity": "100ml",
         "price": "2600000",
-        "salePrice": "1450000",
+        "salePrice": "",
         "image": "13E3z7i5Qm-X6TXyuu5Q5jJDrkdWYqumt",
         "status": true
       },
