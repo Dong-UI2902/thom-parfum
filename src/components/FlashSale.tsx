@@ -17,7 +17,7 @@ const FlashSale = () => {
             <img src="/assets/fsale_countdown_label.webp" style={{ width: "180px", height: "39px", objectFit: "contain" }} />
 
             <div style={{ color: "#ff3c00" }}>
-              <div style={{ fontSize: "18px", fontWeight: "700" }}>Happy Vietnamese Women's Day 20-10</div>
+              <div style={{ fontSize: "18px", fontWeight: "700" }}>Happy Vietnamese Women&apos;s Day 20-10</div>
             </div>
           </div>
           <div className="sale__title-right">
