@@ -37,7 +37,8 @@ const Textarea = styled(BaseTextareaAutosize)(
 );
 
 // Link Web App của Google Apps Script gắn với Google Sheet "Thơm Parfum"
-const ORDER_HOOK_URL = "__DAN_LINK_APPS_SCRIPT__";
+const ORDER_HOOK_URL =
+  "https://script.google.com/macros/s/AKfycbzaw1RlxaDuCV5LTCg_abLK-19kHew5siwL1cm-zuaIxrj1K4vbw9YxiJXEu7UNUvFP2g/exec";
 
 const Info = {
   title: "Thơm Parfum - Xác nhận đơn hàng",
@@ -139,7 +140,7 @@ const Checkout = () => {
         throw new Error("Something went wrong");
       })
       .then(() => (window.location.href = "/order-completed"))
-      .catch((err) => setError(err))
+      .catch((err) => setError(String((err && err.message) || err || "error")))
       .finally(() => setLoading(false));
   };
 
