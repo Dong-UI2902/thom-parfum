@@ -5,9 +5,11 @@ import CardGiftcardRoundedIcon from "@mui/icons-material/CardGiftcardRounded";
 import CheckRoundedIcon from "@mui/icons-material/CheckRounded";
 import { FANPAGE } from "../Helper/Helper";
 
+const TEXT = "#1f2a24";
+
 const GIFTS = [
-  <>Một chai chiết <strong>10ml</strong> tuỳ chọn</>,
-  <>Một voucher trị giá <strong>250.000đ</strong></>,
+  <>Chai chiết <strong>10ml</strong> tuỳ chọn mùi</>,
+  <>Voucher ưu đãi <strong>250.000đ</strong></>,
 ];
 
 const card = {
@@ -15,17 +17,18 @@ const card = {
   top: "50%",
   left: "50%",
   transform: "translate(-50%, -50%)",
-  width: { xs: "calc(100% - 32px)", sm: 520 },
-  maxWidth: 520,
+  width: { xs: "calc(100% - 32px)", sm: 500 },
+  maxWidth: 500,
   bgcolor: "#fffdf8",
   borderRadius: "20px",
   boxShadow: "0 24px 60px rgba(30, 50, 40, 0.18), 0 2px 8px rgba(30, 50, 40, 0.06)",
   border: "1px solid rgba(62, 101, 83, 0.10)",
-  px: { xs: 3, sm: 4.5 },
-  pt: { xs: 4, sm: 4.5 },
+  px: { xs: 3, sm: 5 },
+  pt: { xs: 4.5, sm: 5 },
   pb: { xs: 3, sm: 3.5 },
   textAlign: "center" as const,
   outline: "none",
+  color: TEXT,
   fontFamily: "var(--body-font)",
   "& .MuiButton-root": { fontFamily: "var(--body-font)" },
 };
@@ -54,12 +57,11 @@ const Notification = () => {
           <IconButton
             aria-label="Đóng"
             onClick={handleClose}
-            size="small"
             sx={{
               position: "absolute",
-              top: 12,
-              right: 12,
-              color: "var(--text-body-color)",
+              top: 10,
+              right: 10,
+              color: TEXT,
               "&:hover": { backgroundColor: "var(--primary-color-light)" },
             }}
           >
@@ -89,15 +91,28 @@ const Notification = () => {
             sx={{
               m: 0,
               fontFamily: "var(--title-font)",
-              fontSize: { xs: 24, sm: 28 },
-              lineHeight: 1.35,
-              fontWeight: 500,
-              color: "var(--text-color)",
+              fontSize: { xs: 26, sm: 30 },
+              lineHeight: 1.3,
+              fontWeight: 700,
+              color: "var(--primary-color)",
             }}
           >
-            Đặt hàng qua Fanpage
+            Quà tặng khi đặt hàng
             <br />
-            để nhận quà tặng kèm
+            qua Fanpage
+          </Box>
+          <Box
+            component="p"
+            sx={{
+              mt: 1.5,
+              mb: 0,
+              fontSize: { xs: 17, sm: 18 },
+              lineHeight: 1.5,
+              fontWeight: 400,
+              color: TEXT,
+            }}
+          >
+            Nhắn tin để được tư vấn và nhận quà:
           </Box>
 
           <Box
@@ -118,15 +133,17 @@ const Notification = () => {
                   gap: 1.5,
                   px: 2.5,
                   py: 1.75,
-                  borderRadius: "12px",
-                  backgroundColor: "#f4f7f5",
-                  color: "var(--text-body-color)",
+                  borderRadius: "14px",
+                  backgroundColor: "#f1f6f3",
+                  border: "1px solid rgba(62, 101, 83, 0.12)",
+                  color: TEXT,
                   fontSize: { xs: 17, sm: 18 },
-                  "& strong": { color: "var(--text-color)", fontWeight: 700 },
+                  fontWeight: 400,
+                  "& strong": { color: "var(--price-color)", fontWeight: 700 },
                 }}
               >
                 <CheckRoundedIcon
-                  sx={{ fontSize: 22, color: "var(--primary-color)", flexShrink: 0 }}
+                  sx={{ fontSize: 24, color: "var(--primary-color)", flexShrink: 0 }}
                 />
                 <span>{g}</span>
               </Box>
@@ -142,17 +159,17 @@ const Notification = () => {
             rel="noreferrer"
             onClick={handleClose}
             sx={{
-              mt: 3,
+              mt: 3.5,
               py: 1.6,
               borderRadius: "999px",
               textTransform: "none",
               fontSize: { xs: 17, sm: 18 },
-              fontWeight: 500,
+              fontWeight: 700,
               backgroundColor: "var(--primary-color)",
               "&:hover": { backgroundColor: "#335646" },
             }}
           >
-            Nhắn Fanpage nhận quà
+            Nhắn tin Fanpage nhận quà
           </Button>
           <Button
             fullWidth
@@ -162,12 +179,13 @@ const Notification = () => {
               py: 1.2,
               borderRadius: "999px",
               textTransform: "none",
-              fontSize: 16,
-              color: "var(--text-body-color)",
+              fontSize: 17,
+              fontWeight: 500,
+              color: "var(--primary-color)",
               "&:hover": { backgroundColor: "var(--primary-color-light)" },
             }}
           >
-            Để sau, tiếp tục đặt trên web
+            Tôi đặt hàng trên web
           </Button>
         </Box>
       </Fade>

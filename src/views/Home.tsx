@@ -108,7 +108,7 @@ function Home() {
                 <Button
                   target="_blank"
                   component={Link}
-                  href="https://m.me/105374042191939"
+                  href="https://m.me/Thomparfum.store"
                   variant="contained"
                   endIcon={<i className="ri-arrow-right-up-line"></i>}
                   color="primary"
