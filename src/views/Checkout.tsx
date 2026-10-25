@@ -36,6 +36,9 @@ const Textarea = styled(BaseTextareaAutosize)(
       `
 );
 
+// Link Web App của Google Apps Script gắn với Google Sheet "Thơm Parfum"
+const ORDER_HOOK_URL = "__DAN_LINK_APPS_SCRIPT__";
+
 const Info = {
   title: "Thơm Parfum - Xác nhận đơn hàng",
   desc: "Thomparfum.com - Cửa hàng nước hoa chính hãng, uy tín tại TPHCM, chuyên cung cấp các sản phẩm nước hoa chính hãng với giá phù hợp.",
@@ -112,19 +115,16 @@ const Checkout = () => {
 
     setLoading(true);
 
-    fetch(
-      "https://api.sheetbest.com/sheets/de77feef-7f2b-419c-8b9f-6983de3e8b6c",
-      {
-        headers: {
-          Accept: "application/json",
-          "Content-Type": "application/json",
-        },
-        method: "post",
-        body: formDataJsonString,
-      }
-    )
-      .then((res) => {
-        if (res.ok) {
+    // Gửi đơn về Google Sheet qua Google Apps Script (thay sheet.best, miễn phí).
+    // Content-Type text/plain để trình duyệt không gửi preflight CORS (Apps Script không hỗ trợ).
+    fetch(ORDER_HOOK_URL, {
+      method: "POST",
+      headers: { "Content-Type": "text/plain;charset=utf-8" },
+      body: formDataJsonString,
+    })
+      .then((res) => (res.ok ? res.json() : Promise.reject(new Error("HTTP " + res.status))))
+      .then((data) => {
+        if (data && data.ok) {
           setCard(
             JSON.stringify({
               id: product.id,
@@ -133,7 +133,7 @@ const Checkout = () => {
             })
           );
 
-          return res.json();
+          return;
         }
 
         throw new Error("Something went wrong");
